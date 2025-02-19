@@ -1,0 +1,211 @@
+ID,Age,Weight_kg,PCOS,Hormonal_Imbalance,Hyperandrogenism,Hirsutism,Conception_Difficulty,Insulin_Resistance,Exercise_Frequency,Exercise_Type,Exercise_Duration,Sleep_Hours,Exercise_Benefit
+0,20-25,64.0,No,No,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",30 minutes,Less than 6 hours,Somewhat
+1,15-20,55.0,No,No,No,No,No,No,6-8 Times a Week,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+2,15-20,91.0,No,No,No,Yes,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Somewhat
+3,15-20,56.0,No,No,No,No,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",45 minutes,6-8 hours,Not at All
+4,15-20,47.0,No,Yes,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Not Much
+5,20-25,41.0,No,Yes,No,Yes,No,No,Never,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+6,15-20,58.0,No,No,No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,Less than 6 hours,Somewhat
+7,20-25,85.0,Yes,Yes,Yes,Yes,"Yes, diagnosed by a doctor",Yes,Rarely,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+8,20-25,71.0,Yes,Yes,No,No,No,No,Never,No Exercise,Not Applicable,Less than 6 hours,Not at All
+9,20-25,62.0,No,No,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,Less than 6 hours,Somewhat
+10,20-25,71.0,Yes,Yes,No,Yes,"Yes, diagnosed by a doctor",No,Rarely,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+11,20-25,75.0,Yes,Yes,Yes,Yes,No,Yes,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises)",45 minutes,6-8 hours,Somewhat
+12,20-25,68.0,No,Yes,No,No,No,No,3-4 Times a Week,"Flexibility and balance (e.g., yoga, pilates)",30 minutes,,Yes Significantly
+13,20-25,66.0,Yes,Yes,No,Yes,No,Yes,Rarely,High-intensity interval training (HIIT),Less than 30 minutes,Less than 6 hours,Not Much
+14,15-20,35.0,No,No,No,Yes,No,No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",Not Applicable,6-8 hours,Not at All
+15,15-20,64.0,No,Yes,No,Yes,No,No,1-2 Times a Week,"Flexibility and balance (e.g., yoga, pilates)",30 minutes,Less than 6 hours,Not Much
+16,20-25,72.0,No,No,No,Yes,No,Yes,Rarely,No Exercise,Not Applicable,6-8 hours,Yes Significantly
+17,15-20,51.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",45 minutes,Less than 6 hours,Somewhat
+18,15-20,52.0,No,Yes,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,Less than 6 hours,Not Much
+19,20-25,62.0,Yes,Yes,Yes,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,Less than 6 hours,Yes Significantly
+20,20-25,48.0,No,No,No,No,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+21,45 and above,73.0,No,Yes,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+22,15-20,53.0,No,Yes,No,No,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",More than 30 minutes,6-8 hours,Somewhat
+23,15-20,54.0,No,Yes,No,Yes,No,No,Rarely,No Exercise,Not Applicable,9-12 hours,Somewhat
+24,20-25,54.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises)",Less than 30 minutes,Less than 6 hours,Somewhat
+25,15-20,38.0,No,No,No,No,No,No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",Not Applicable,6-8 hours,Yes Significantly
+26,20-25,49.0,No,Yes,No,Yes,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Somewhat
+27,30-35,88.0,No,Yes,No,No,No,No,Rarely,High-intensity interval training (HIIT),30 minutes,6-8 hours,Somewhat
+28,15-20,57.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+29,15-20,52.0,No,No,No,No,No,No,Never,No Exercise,Not Applicable,Less than 6 hours,Not at All
+30,20-25,47.0,Yes,Yes,Yes,Yes,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming), Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,Less than 6 hours,Yes Significantly
+31,45 and above,66.0,No,No,No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Not at All
+32,20-25,52.0,Yes,Yes,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+33,20-25,116.0,No,No,No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises)",More than 30 minutes,9-12 hours,Somewhat
+34,35-44,66.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+35,20-25,41.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+36,20-25,44.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+37,20-25,43.0,No,No,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+38,20-25,55.0,No,No,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+39,20-25,67.0,No,No,No,Yes,No,No,Rarely,No Exercise,Not Applicable,Less than 6 hours,Not at All
+40,20-25,47.0,No,No,No,Yes,No,No,Rarely,No Exercise,Less than 30 minutes,6-8 hours,Not at All
+41,20-25,54.0,No,No,No,No,,,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+42,20-25,45.0,No,Yes,No,No,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises), Flexibility and balance (e.g., yoga, pilates)",,6-8 hours,Somewhat
+43,20-25,56.0,No,No,No,No,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Yes Significantly
+44,15-20,41.0,No,Yes,,No,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming)",45 minutes,Less than 6 hours,Somewhat
+45,20-25,59.0,No,Yes,No,No,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises)",More than 30 minutes,Less than 6 hours,Somewhat
+46,15-20,50.0,No,No,No,No,No,No,1-2 Times a Week,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+47,20-25,63.0,No,No,No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,Less than 6 hours,Somewhat
+48,15-20,46.0,No,Yes,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,Less than 6 hours,Somewhat
+49,20-25,53.0,No,Yes,No,No,No,No,3-4 Times a Week,"Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,9-12 hours,Somewhat
+50,20-25,64.0,Yes,Yes,No,No,No,Yes,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",45 minutes,Less than 6 hours,Somewhat
+51,20-25,52.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+52,20-25,57.0,No,No,No,Yes,No,No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,6-8 hours,Somewhat
+53,15-20,70.0,No,Yes,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+54,20-25,53.0,No,No,No,No,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises), Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,6-8 hours,Somewhat
+55,20-25,53.0,No,Yes,No,Yes,No,Yes,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Not Much
+56,20-25,46.0,No,Yes,No,No,No,No,Rarely,No Exercise,30 minutes,6-8 hours,Somewhat
+57,20-25,40.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+58,20-25,47.0,No,Yes,No,No,No,No,,No Exercise,Not Applicable,6-8 hours,Somewhat
+59,20-25,51.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,9-12 hours,Somewhat
+60,20-25,56.0,Yes,Yes,Yes,Yes,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",45 minutes,Less than 6 hours,Somewhat
+61,20-25,50.0,No,Yes,No,No,No,No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,Less than 6 hours,Somewhat
+62,15-20,41.0,No,No,No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+63,20-25,58.0,No,No,No,No,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+64,15-20,45.0,No,No,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,9-12 hours,Somewhat
+65,15-20,70.0,No,No,No,No,No,No,Rarely,,Not Applicable,Less than 6 hours,Somewhat
+66,20-25,60.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+67,20-25,68.0,Yes,No,No,Yes,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,Less than 6 hours,Not Much
+68,15-20,66.0,No,No,No,No,No,No,1-2 Times a Week,"Strength training (e.g., weightlifting, resistance exercises), Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,6-8 hours,Somewhat
+69,20-25,58.0,No,Yes,No,"No, Yes, not diagnosed by a doctor",No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,9-12 hours,Somewhat
+70,20-25,65.0,Yes,Yes,Yes,No,No,Yes,Rarely,No Exercise,Not Applicable,6-8 hours,Not Much
+71,15-20,55.0,No,Yes,No,No,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",45 minutes,6-8 hours,Somewhat
+72,15-20,71.0,No,Yes,Yes,Yes,No,No,1-2 Times a Week,"Strength training (e.g., weightlifting, resistance exercises)",More than 30 minutes,6-8 hours,Somewhat
+73,20-25,65.0,Yes,Yes,Yes,Yes,No,Yes,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+74,15-20,49.0,No,No,No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,Less than 6 hours,Not at All
+75,20-25,48.5,Yes,,No,No,No,No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,6-8 hours,Somewhat
+76,20-25,40.0,No,No,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+77,15-20,52.0,No,"No, Yes, not diagnosed by a doctor",No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,Less than 6 hours,Somewhat
+78,20-25,44.0,No,No,No,No,No,No,1-2 Times a Week,"Flexibility and balance (e.g., yoga, pilates)",30 minutes,6-8 hours,Yes Significantly
+79,15-20,66.0,Yes,Yes,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Yes Significantly
+80,20-25,69.0,No,Yes,No,Yes,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+81,20-25,47.0,No,Yes,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Not at All
+82,35-44,68.0,No,No,No,No,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming), Flexibility and balance (e.g., yoga, pilates)",45 minutes,6-8 hours,Somewhat
+83,20-25,59.0,No,No,No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+84,15-20,37.0,No,No,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+85,20-25,81.0,Yes,Yes,No,Yes,No,Yes,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming)",More than 30 minutes,6-8 hours,Somewhat
+86,20-25,62.0,No,Yes,No,No,No,No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",45 minutes,9-12 hours,Yes Significantly
+87,20-25,50.0,No,No,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+88,20-25,57.0,No,Yes,No,No,No,No,6-8 Times a Week,No Exercise,Less than 30 minutes,6-8 hours,Yes Significantly
+89,15-20,43.0,No,No,No,,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+90,25-30,49.0,No,No,No,No,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming), Flexibility and balance (e.g., yoga, pilates)",30 minutes,6-8 hours,Somewhat
+91,15-20,43.0,No,Yes,No,Yes,No,No,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",45 minutes,6-8 hours,Somewhat
+92,15-20,61.0,No,No,,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+93,15-20,59.0,Yes,Yes,Yes,Yes,No,No,1-2 Times a Week,"Strength training (e.g., weightlifting, resistance exercises)",45 minutes,6-8 hours,Not Much
+94,20-25,47.0,Yes,Yes,Yes,Yes,No,No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,6-8 hours,Not at All
+95,15-20,53.0,No,No,Yes,No,No,No,Rarely,"Strength training (e.g., weightlifting, resistance exercises)",45 minutes,6-8 hours,Somewhat
+96,15-20,57.0,No,Yes,No,,"No, Yes, not diagnosed by a doctor","No, Yes, not diagnosed by a doctor",Rarely,"Strength training (e.g., weightlifting, resistance exercises)",Not Applicable,6-8 hours,Not Much
+97,20-25,,No,No,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Yes Significantly
+98,20-25,59.0,No,No,No,No,No,No,Never,No Exercise,Not Applicable,More than 12 hours,Somewhat
+99,20-25,67.0,No,No,No,No,No,No,1-2 Times a Week,"Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,6-8 hours,Somewhat
+100,20-25,50.0,No,Yes,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Not at All
+101,20-25,52.5,No,No,No,No,No,No,1-2 Times a Week,No Exercise,Not Applicable,6-8 hours,Not at All
+102,15-20,39.0,No,No,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Not at All
+103,15-20,61.0,No,Yes,No,No,No,No,3-4 Times a Week,"Flexibility and balance (e.g., yoga, pilates)",Not Applicable,6-8 hours,Somewhat
+104,20-25,67.0,Yes,Yes,Yes,Yes,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,9-12 hours,Somewhat
+105,15-20,51.0,No,No,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,,Somewhat
+106,20-25,68.0,No,Yes,No,Yes,No,No,Never,No Exercise,Not Applicable,Less than 6 hours,Not Much
+107,20-25,56.0,Yes,Yes,Yes,Yes,"Yes, diagnosed by a doctor",Yes,Never,No Exercise,Not Applicable,6-8 hours,Not at All
+108,15-20,45.0,No,Yes,No,No,No,No,Rarely,No Exercise,Not Applicable,9-12 hours,Somewhat
+109,20-25,42.0,No,No,No,No,No,No,1-2 Times a Week,No Exercise,Not Applicable,6-8 hours,Somewhat
+110,20-25,54.0,No,No,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,9-12 hours,Yes Significantly
+111,20-25,48.0,Yes,Yes,No,No,No,No,6-8 Times a Week,"Flexibility and balance (e.g., yoga, pilates), None",Less than 30 minutes,Less than 6 hours,Somewhat
+112,25-30,82.0,Yes,Yes,No,Yes,No,Yes,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+113,20-25,41.0,No,Yes,No,No,No,No,Rarely,"Strength training (e.g., weightlifting, resistance exercises)",Less than 30 minutes,6-8 hours,Yes Significantly
+114,20-25,79.0,Yes,Yes,No,"No, Yes, not diagnosed by a doctor",No,No,Never,No Exercise,Not Applicable,6-8 hours,Yes Significantly
+115,20-25,52.0,No,No,No,No,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Somewhat
+116,20-25,48.0,No,No,No,Yes,No,No,Never,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+117,15-20,36.5,Yes,Yes,No,Yes,No,Yes,6-8 Times a Week,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+118,15-20,44.0,Yes,Yes,Yes,Yes,No,Yes,Never,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+119,20-25,62.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+120,20-25,51.0,No,Yes,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+121,20-25,67.0,No,Yes,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Not at All
+122,15-20,41.0,No,No,No,No,No,No,6-8 Times a Week,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+123,20-25,53.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Not at All
+124,20-25,58.0,No,Yes,No,Yes,No,No,6-8 Times a Week,"Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,6-8 hours,Somewhat
+125,15-20,48.0,No,Yes,No,No,No,No,Never,No Exercise,Not Applicable,Less than 6 hours,Not at All
+126,15-20,48.0,No,Yes,No,No,No,No,6-8 Times a Week,No Exercise,Not Applicable,6-8 hours,Somewhat
+127,20-25,52.0,No,No,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+128,15-20,54.0,No,No,No,No,No,No,Rarely,,Not Applicable,6-8 hours,Somewhat
+129,20-25,49.0,No,No,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Not Much
+130,15-20,56.0,No,No,No,No,No,Yes,Rarely,"Cardio (e.g., running, cycling, swimming)",More than 30 minutes,Less than 6 hours,Somewhat
+131,20-25,59.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Yes Significantly
+132,20-25,63.0,No,Yes,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Not at All
+133,20-25,49.0,Yes,Yes,Yes,Yes,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Somewhat
+134,25-30,69.0,Yes,Yes,No,No,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+135,35-44,62.0,No,No,No,No,No,No,3-4 Times a Week,No Exercise,Less than 30 minutes,6-8 hours,Not Much
+136,35-44,72.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+137,15-20,74.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Yes Significantly
+138,20-25,73.0,Yes,Yes,Yes,Yes,"Yes, diagnosed by a doctor",No,Rarely,"Cardio (e.g., running, cycling, swimming), None",Less than 30 minutes,9-12 hours,Not Much
+139,20-25,53.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+140,15-20,54.6,No,Yes,No,No,No,No,1-2 Times a Week,No Exercise,Not Applicable,Less than 6 hours,
+141,20-25,61.0,Yes,Yes,Yes,Yes,No,No,Never,"Cardio (e.g., running, cycling, swimming)",Not Applicable,6-8 hours,Not at All
+142,20-25,66.0,No,Yes,Yes,Yes,No,Yes,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",45 minutes,6-8 hours,Somewhat
+143,20-25,,No,No,No,No,No,No,3-4 Times a Week,"Cardio (e.g., running, cycling, swimming), Flexibility and balance (e.g., yoga, pilates)",Less than 30 minutes,6-8 hours,Yes Significantly
+144,15-20,43.0,No,Yes,No,No,No,No,3-4 Times a Week,"Strength training (e.g., weightlifting, resistance exercises)",45 minutes,6-8 hours,Somewhat
+145,20-25,56.0,No,,Yes,Yes,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Somewhat
+146,45 and above,84.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Not Much
+147,15-20,54.0,No,No,No,No,No,No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",Not Applicable,6-8 hours,Somewhat
+148,25-30,66.0,Yes,No,Yes,No,"Yes, diagnosed by a doctor",Yes,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,9-12 hours,Yes Significantly
+149,20-25,56.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",Less than 30 minutes,6-8 hours,Somewhat
+150,15-20,48.0,No,Yes,No,Yes,No,Yes,Rarely,"Cardio (e.g., running, cycling, swimming)",30 minutes,6-8 hours,Somewhat
+151,20-25,92.0,Yes,Yes,No,No,No,No,3-4 Times a Week,High-intensity interval training (HIIT),30 minutes,6-8 hours,Somewhat
+152,20-25,51.0,Yes,Yes,Yes,Yes,"Yes, diagnosed by a doctor",No,Rarely,"Flexibility and balance (e.g., yoga, pilates)",Not Applicable,6-8 hours,Not Much
+153,,53.0,No,Yes,No,No,No,No,Rarely,"Cardio (e.g., running, cycling, swimming)",45 minutes,Less than 6 hours,Somewhat
+154,20-25,67.0,No,Yes,No,No,No,No,1-2 Times a Week,"Cardio (e.g., running, cycling, swimming)",45 minutes,Less than 6 hours,Somewhat
+155,20-25,56.0,No,No,No,No,No,No,3-4 Times a Week,Cardio (e.g.,Not Applicable,Less than 6 hours,Somewhat
+156,20-25,56.0,No,Yes,No,No,No,No,Rarely,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+157,20-25,30.0,No,No,No,No,No,No,Rarely,Cardio (e.g.,Less than 30 minutes,6-8 hours,Yes Significantly
+158,20-25,47.0,No,No,No,No,No,No,,Strength training,Not Applicable,Less than 6 hours,Somewhat
+159,20-25,52.0,No,Yes,No,Yes,No,Yes,Rarely,Cardio (e.g.,Not Applicable,Less than 6 hours,Not at All
+160,20-25,47.0,No,Yes,No,Yes,No,No,Never,No Exercise,Not Applicable,6-8 hours,Somewhat
+161,Less than 20,30.0,No,No,No,No,No,No,6-8 hours,Cardio (e.g.,20 minutes,6-8 hours,Yes Significantly
+162,20-25,60.0,No,Yes,No,No,No,No,1-2 Times a Week,Strength training (e.g.,30 minutes,3-4 hours,Somewhat
+163,Less than 20,47.0,No,Yes,No,No,No,No,1-2 Times a Week,Cardio (e.g.,Less than 30 minutes,Less than 6 hours,Not Much
+164,Less than 20,74.0,No,No,,No,No,No,1-2 Times a Week,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+165,20-25,53.0,Yes,Yes,Yes,,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+166,Less than 20,47.0,No,Yes,No,No,No,No,Rarely,Somewhat,Less than 30 minutes,6-8 hours,Somewhat
+167,20-25,51.0,No,Yes,No,No,No,No,1-2 Times a Week,Cardio (e.g.,Not Applicable,Less than 6 hours,Yes Significantly
+168,20-25,59.0,No,Yes,No,Yes,No,No,1-2 Times a Week,Cardio (e.g.,Less than 30 minutes,6-8 hours,Somewhat
+169,20-25,70.0,No,Yes,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+170,20-25,63.0,No,No,No,Yes,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+171,20-25,65.0,No,Yes,No,Yes,No,No,Rarely,No Exercise,45 minutes,6-8 hours,Somewhat
+172,20-25,56.0,Yes,Yes,Yes,,No,No,Rarely,Cardio (e.g.,Not Applicable,Less than 6 hours,Somewhat
+173,Less than 20,56.0,No,No,No,No,No,No,6-8 Times a Week,No Exercise,Not Applicable,6-8 hours,Not at All
+174,20-25,55.0,Yes,Yes,No,No,No,No,Rarely,No Exercise,More than 30 minutes,6-8 hours,Somewhat
+175,20-25,40.0,No,Yes,Yes,No,No,No,3-4 Times a Week,No Exercise,Not Applicable,6-8 hours,Not Much
+176,20-25,70.0,Yes,Yes,No,Yes,No,No,Rarely,Cardio (e.g.,Not Applicable,6-8 hours,Somewhat
+177,Less than 20,45.0,Yes,Yes,No,Yes,No,No,Rarely,Cardio (e.g.,Not Applicable,Less than 6 hours,Somewhat
+178,30-25,47.0,No,No,No,No,No,No,Rarely,Cardio (e.g.,Not Applicable,6-8 hours,Not at All
+179,Less than 20,50.0,No,No,No,No,No,No,Less than usual,Cardio (e.g.,Not Applicable,Less than 6 hours,Not Much
+180,Less than 20,70.0,No,No,No,No,No,No,Rarely,Cardio (e.g.,30 minutes,6-8 hours,Somewhat
+181,20-25,58.0,Yes,Yes,No,No,No,No,Never,No Exercise,Less than 6 hours,6-8 hours,Somewhat
+182,20-25,55.0,No,No,No,No,No,No,1-2 Times a Week,Cardio (e.g.,Not Applicable,6-8 hours,Somewhat
+183,30-40,70.0,No,No,No,No,No,No,Rarely,Flexibility and balance (e.g.,,6-8 hours,Somewhat
+184,20-25,47.0,No,No,No,No,No,No,Never,Cardio (e.g.,Less than 30 minutes,6-8 hours,Yes Significantly
+185,Less than 20,42.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Yes Significantly
+186,20-25,80.0,No,No,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,Less than 6 hours,Somewhat
+187,Less than 20,49.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+188,20-25,37.5,Yes,Yes,Yes,Yes,No,Yes,Never,Cardio (e.g.,Less than 30 minutes,6-8 hours,Not at All
+189,Less than 20,70.0,No,Yes,Yes,No,No,No,Rarely,No Exercise,Less than 30 minutes,6-8 hours,Not at All
+190,20-25,36.0,No,No,No,No,No,No,Never,No Exercise,Less than 30 minutes,Less than 6 hours,Yes Significantly
+191,Less than 20,60.0,Yes,Yes,Yes,No,No,Yes,Rarely,No Exercise,30 minutes,6-8 hours,Not Much
+192,20-25,54.0,No,No,No,,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Not at All
+193,20-25,52.0,Yes,No,Yes,No,No,Yes,Rarely,No Exercise,30 minutes,6-8 hours,Yes Significantly
+194,20-25,60.0,Yes,Yes,Yes,Yes,No,Yes,3-4 Times a Week,No Exercise,30 minutes,Less than 6 hours,Somewhat
+195,20-25,45.0,No,No,No,No,No,No,Rarely,Cardio (e.g.,Not Applicable,6-8 hours,Somewhat
+196,Less than 20,49.0,Yes,Yes,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+197,20-25,70.0,No,Yes,Yes,Yes,Yes,No,3-4 Times a Week,Cardio (e.g.,30 minutes to 1 hour,9-12 hours,Somewhat
+198,Less than 20-25,55.0,No,Yes,No,No,No,No,Rarely,No Exercise,Less than 30 minutes,6-8 hours,Somewhat
+199,Less than 20,55.0,No,No,No,No,No,No,Never,Cardio (e.g.,Not Applicable,Less than 6 hours,Somewhat
+200,Less than 20,41.0,No,Yes Significantly,No,No,No,No,Rarely,Cardio (e.g.,30 minutes,Less than 6 hours,Not at All
+201,Less than 20,42.0,No,Yes,No,Yes,No,No,1-2 Times a Week,Cardio (e.g.,Less than 30 minutes,Less than 6 hours,Not Much
+202,20-25,55.0,Yes,Yes,Yes,Yes,No,Yes,Less than 6 hours,No Exercise,Not Applicable,6-8 hours,Somewhat
+203,20-25,85.0,No,No,No,No,No,No,Rarely,Cardio (e.g.,Not Applicable,6-8 hours,Somewhat
+204,Less than 20,20.0,Yes,No,No,No,No,No,Rarely,Cardio (e.g.,Less than 30 minutes,Less than 6 hours,Not Much
+205,20-25,57.0,No,No,No,No,No,No,Rarely,No Exercise,Not Applicable,Less than 6 hours,Somewhat
+206,Less than 20,53.6,No,Yes,Yes,Yes,No,No,Rarely,No Exercise,Not Applicable,6-8 hours,Somewhat
+207,30-35,30.0,No,No,No,No,No,No,1-2 Times a Week,Cardio (e.g.,30 minutes,6-8 hours,Somewhat
+208,20-25,65.0,No,No,No,Yes,No,No,1-2 Times a Week,No Exercise,Less than 30 minutes,Less than 6 hours,Somewhat
+209,20-25,60.0,Yes,Yes,No,Yes,No,No,3-4 Times a Week,Cardio (e.g.,Not Applicable,Less than 6 hours,Somewhat
