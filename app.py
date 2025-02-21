@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify, render_template
+from flask_cors import CORS
 from fpdf import FPDF
 import pandas as pd
 import joblib
@@ -6,7 +7,7 @@ import numpy as np
 from datetime import datetime
 
 app = Flask(__name__)
-
+CORS(app)
 # Load the trained model
 model = joblib.load('models/pcos_model_new2.pkl')
 
